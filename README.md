@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ping Ma on Github
 
 You can use the [editor on GitHub](https://github.com/pingma/pingma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
